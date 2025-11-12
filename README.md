@@ -2,6 +2,8 @@
 Khải or Kai \
 Computer Science student at UIT-VNU, interested in **Machine Learning** and **Artificial Intelligence**.
 
+![Profile Picture](IMG_20251113_005436.jpg)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khai.trong.9406/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khaitt135@gmail.com) 
